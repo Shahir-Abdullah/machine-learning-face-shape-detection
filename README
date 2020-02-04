@@ -1,0 +1,3 @@
+this is a git repo. 
+This is a project which uses imagenet dataset to train a keras VGG16 model for detecting face shape. Since it's my learning project I trained this model to detect only either Triangular face shape and Round face shape. The original project was for detecting either cat or dog. I tweaked it and used another dataset. All credits to the author of the project. Here is the link of his blog tutorial. https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+
